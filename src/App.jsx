@@ -9,7 +9,7 @@ function App() {
       <div>
 
       <Counter/>
-        <h1> Welcome to the Counter App</h1>
+        <h1> Welcome to the Counter App Raj</h1>
       </div>
       
     </>
